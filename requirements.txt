@@ -1,0 +1,15 @@
+# Python version used 3.9.19
+--extra-index-url https://download.pytorch.org/whl/cu118
+torch==2.3.0+cu118
+torchvision==0.18.0+cu118
+torchaudio==2.3.0+cu118
+numpy==1.24.4
+pandas==1.5.3
+optuna==3.6.1
+stable-baselines3==2.3.2
+gymnasium==0.29.1
+logzero
+jupyter
+nsepython==2.8
+smartapi-python==1.4.8
+
