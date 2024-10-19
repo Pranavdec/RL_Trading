@@ -11,11 +11,11 @@ This project implements a butterfly trading strategy for Punjab National Bank (P
 ### Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/<your-username>/pnb-options-strategy.git
+   [git clone https://github.com/<your-username>/pnb-options-strategy.git](https://github.com/Pranavdec/RL_Trading.git)
    ```
 2. Navigate to the project directory:
    ```bash
-   cd pnb-options-strategy
+   cd RL_Trading
    ```
 3. Install dependencies:
    ```bash
